@@ -1,0 +1,26 @@
+home                        首页
+NavHead                     首页头部导航组件
+Carousel                    轮播图组件
+HomeSubtitle                首页的小标题组件
+Echarts                     首页物联网图表组件
+
+news                        首页新闻
+  HomeNews                  首页新闻中心组件
+  Newshome                  首页新闻内容组件
+
+agricultural                首页农情宝
+  HomeAgricultural          首页农情宝组件
+  Agricultural              首页农情宝内容组件
+
+Internet                    首页物联网
+  HomeInternet              首页物联网组件
+  internetImg               首页物联网内容组件
+
+knowledge                   首页知识库
+  HomeKnowledge             首页知识库组件
+  knowledge                 首页知识库内容组件
+
+about                       首页关于我们
+  HomeAbout                 首页关于我们组件
+
+
